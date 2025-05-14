@@ -32,6 +32,7 @@
 
 
 ### stats 
-[![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=peroute)]
+[![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=peroute)](https://github.com/peroute/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hedibouassida&show_icons=true&theme=radical)
