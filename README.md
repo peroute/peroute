@@ -22,6 +22,7 @@
 
       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="vscode" width="45" height="45"/>
