@@ -14,7 +14,7 @@
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="45" height="45" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="45" height="45"/>
           
     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="vscode" width="45" height="45"/>
