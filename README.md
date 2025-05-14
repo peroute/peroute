@@ -10,7 +10,7 @@
 <h2> 🚀 &nbsp;skills:</h2> 
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" width="45" height="45"/>
+
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="45" height="45" />
 
@@ -25,14 +25,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" />
           
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+
 </p>
 
 
-### stats 
+<h2> &nbsp;Stats:</h2> 
+
 [![Hedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=peroute)](https://github.com/peroute)
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hedibouassida&show_icons=true&theme=radical)
