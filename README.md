@@ -4,7 +4,7 @@
 - 💻 Studying Computer Science  
 - 🧠 Transfering to texas tech university 
 - 🔭 Working on Python and Java projects  
-- 🎯 **Fun fact:** I like to play chess. My current **Rapid rating**: ~800 
+- 🎯 **Fun fact:** I like to play chess. My LIVE **Rapid rating**: ~800 
 
 
 <h2> 🚀 &nbsp;skills:</h2> 
