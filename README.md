@@ -1,11 +1,10 @@
 # Hi there 👋, I'm Hedi!
 
-🎓 graduating with an **Associate of Science in Computer Information Systems** from **CCAC**
-💻 Studying Computer Science  
-🧠 Transfering to texas tech university 
-🔭 Working on Python and Java projects  
-🎯 **Fun fact:** I like to play chess.  
-My current **Rapid rating**: ~800 
+- 🎓 graduating with an **Associate of Science in Computer Information Systems** from **CCAC**
+- 💻 Studying Computer Science  
+- 🧠 Transfering to texas tech university 
+- 🔭 Working on Python and Java projects  
+- 🎯 **Fun fact:** I like to play chess. My current **Rapid rating**: ~800 
 
 
 <h2> 🚀 &nbsp;skills:</h2> 
