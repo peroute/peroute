@@ -29,5 +29,5 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-%230073C9.svg?style=for-the-badge&logo=java&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=peroute&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=peroute&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
