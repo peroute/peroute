@@ -28,3 +28,7 @@
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-%230073C9.svg?style=for-the-badge&logo=java&logoColor=white)
 
+![](https://github-readme-stats.shion.dev/api?username=peroute&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=peroute&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=peroute&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
