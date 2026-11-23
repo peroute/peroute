@@ -1,34 +1,22 @@
-# 💫 About Me:
-🎓 Pursuing a Bachelor’s degree in Computer Science at Texas Tech University<br>💻 Passionate about coding, software development, and exploring new technologies<br>🚀 Currently learning and building projects in Python, Java, and web development
+Hi, I'm Hedi, a CS student at Texas Tech (4.0, graduating Dec 2027) building AI evaluation tools and full-stack apps. Looking for Summer 2027 SWE / AI-ML internships.
 
+### What I'm working on
 
-# 💻 Tech Stack:
-**Languages:**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Assembly](https://img.shields.io/badge/Assembly-%2300ADD8.svg?style=for-the-badge&logo=asm&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+- **Software Engineer at TTU Online:** built Worklog, the dev team's daily ticketing app (React, TypeScript, Supabase, Postgres RLS, 307 unit tests + pgTAP), and an LLM-as-judge evaluator that fact-checks a university voice agent claim by claim (FastAPI, Gemini).
+- **YWCA Incident Platform:** co-building, on a team of 5, a web app to replace paper incident forms at YWCA Lubbock's 23 afterschool sites (React, Fastify, PostgreSQL row-level security, Entra ID).
+- **Previously:** Software Engineer Intern (AI/ML) at AdReady AI, where I led 4 engineers on a multi-agent QA platform for AI-generated video ads.
 
-**Frameworks & Platforms:**  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white) 
+### Featured projects
 
+| Project | What it is |
+| --- | --- |
+| [Claim-ready](https://github.com/peroute/claim-ready) | Multimodal RAG that checks damage-claim video against insurance policy PDFs; every finding cites a video timestamp and PDF clause. Built solo in 24h at Hook 'Em Hacks 2026. [Demo](https://youtu.be/ovHGdx5eG28) |
+| [Worklog](https://github.com/peroute/Worklog) | Team ticketing app that replaced a shared Google Sheet, with security enforced in Postgres. |
+| ava-evaluator | LLM-as-judge evaluator for a university voice agent; separates knowledge-base gaps from retrieval misses. *(Repo link coming soon.)* |
+| [Environmental Monitoring](https://github.com/YassineSahli04/EnvironmentalStationsData) | Real-time health monitoring for 15+ weather stations (team of 2; FastAPI, PostgreSQL, Docker, React). |
 
-**Libraries:**  
-![Jsoup](https://img.shields.io/badge/Jsoup-%23EE0000.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Selenium](https://img.shields.io/badge/Selenium-%23C93D00.svg?style=for-the-badge&logo=selenium&logoColor=white) 
-![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-%230073C9.svg?style=for-the-badge&logo=java&logoColor=white)
+### Tech
 
-![](https://github-readme-stats.shion.dev/api?username=peroute&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=peroute&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=peroute&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Python, TypeScript, React, Next.js, FastAPI, Fastify, PostgreSQL, Supabase, Docker, Playwright, Gemini/OpenAI APIs, RAG, ChromaDB, CLIP, Whisper
 
+[Portfolio](https://portfolio-eight-sable-pixybv9689.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/hedi-bouassida) · [Email](mailto:hedi.bouassida.pro@gmail.com)
